@@ -99,4 +99,4 @@ The agent should respond that the input is too ambiguous for deterministic conve
 
 Add your recording link here before submission:
 
-`VIDEO_LINK_HERE`
+[Watch the walkthrough video](https://youtu.be/afeZm5nXxjE)
